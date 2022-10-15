@@ -726,13 +726,11 @@ footer{
        text-decoration: none;
    
    }
-   
-   .copyright{
-   
-     
-       color: rgba(0, 0, 0, 0.7);
-       text-shadow: 0 2px  rgba(0, 0, 0, 0.1);
+   .logo-foot p{
+    color: white;
    }
+   
+
    @media (max-width:1100px){
       footer{
        display: grid;
