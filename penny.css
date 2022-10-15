@@ -41,7 +41,7 @@ body{
 /* Heading */
 
 header p{
-    color:wheat;
+    color:white;
     font-size: 3rem;
     font-weight: 600;
     margin-top: 3rem;
@@ -177,7 +177,7 @@ nav li a:hover{
     margin-left: 0.5rem;
     line-height: 50px;
     font-size: 1.3rem;
-    color:wheat;
+    color:white;
     font-family: 'Lato', sans-serif;
    
 }
@@ -212,7 +212,7 @@ nav li a:hover{
 }
 .store,.manage,.swapping{
     display: grid;
-    color: wheat;
+    color:white;
     padding: 0.5rem;
     text-align: center;
     border-top-left-radius: 10px ;
@@ -301,7 +301,7 @@ section h2{
     font-weight: 600;
     margin-bottom: 1rem;
     text-align: center;
-    color: wheat;
+    color:white;
 }
 
  .nfts {
@@ -348,7 +348,7 @@ section h2{
    
 }
 .arrows span{
-    color: wheat;
+    color:white;
     font-size: 3rem;
    
 }
@@ -410,7 +410,7 @@ section h2{
    
 }
 .arrows span{
-    color: wheat;
+    color:white;
     font-size: 3rem;
    
 }
@@ -469,7 +469,7 @@ section h2{
 .star-a{
     text-align: center;
     padding: 1rem;
-    color: wheat;
+    color:white;
     font-size: 1.2rem;
 }
 .star-a:hover{
@@ -621,7 +621,7 @@ grid-auto-flow: column;
 }
 .join-comm a {
    
-   color: wheat;
+    color:white;
    font-size: 1.2rem;
 
 }
@@ -720,7 +720,7 @@ footer{
        scale: 1.1;
    }
    footer a{
-       color: wheat;
+    color:white;
        text-decoration: none;
    
    }
@@ -916,21 +916,21 @@ footer{
     padding: 1rem;
 }
 .seeds.one{
-    text-shadow: 0 0 5px #addfde;
+  
     color: #19197c;
     padding: 1rem;
     font-weight: 600;
     font-size: 1rem;
 }
 .seeds.two{
-    text-shadow: 0 0 5px #addfde;
+   
     color: #19197c;
     padding: 1rem;
     font-weight: 600;
     font-size: 1rem;
 }
 .seeds.three{
-    text-shadow: 0 0 5px #addfde;
+   
     color: rgb(39, 21, 196);
     padding: 1rem;
     font-weight: 600;
@@ -1141,7 +1141,7 @@ grid-template-columns: 1fr 1fr ;
     border-radius: 50%;
   
     text-align: center;
-    color: wheat;
+    color:white;
     
 }
 .main-wallet svg:hover{
@@ -1248,7 +1248,7 @@ grid-template-columns: 1fr 1fr ;
 .ada-div,
 .doge-div h3{
     font-family: 'Roboto', sans-serif;
-   color: wheat;
+    color:white;
 }
 @media (max-width:1100px){
 
@@ -1324,7 +1324,7 @@ grid-template-columns: 1fr 1fr ;
     width: 100%;
     position: relative;
 
-    background-color: whitesmoke;
+    background-color:white;
     display: grid;
     border-radius: 10px;
    
